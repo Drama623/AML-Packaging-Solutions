@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Drama623/AML-Packaging-Solutions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+At AML Packaging Solutions our mission is to be your #1 supplier for all your shipping containment needs. AT AML Packaging Solutions we aim to meet all you demands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why choose AML Packaging Solutions?
+
+You have to know the box in order to think outside of it. And no one knows corrugate like AML Packaging SOlutions. Our solution-based strategy and process allows for customized packaging that will protect and promote our client's products. +You have to know the box in order to think outside of it. And no one knows packaging like AML Packaging Solutions. Our solution-based strategy and process allows for customized packaging that will protect and promote our client's products.
+
+As a fully-integrated partner, with continued improvements, processes and procedures, our clients receive valuable solutions for their packaging needs.
 
 ### Markdown
 
@@ -34,4 +38,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions or concerns regarding an order?
+Contact us at:
+accounting@amlpackagingsolutions.co
