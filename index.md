@@ -1,4 +1,4 @@
-url: https://amlpackagingsolutions.co
+url: http://amlpackagingsolutions.co
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Drama623/AML-Packaging-Solutions/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
